@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Simon Game</string>
+    <string name="points">Points :</string>
+    <string name="niveau">Niveau :</string>
+    <string name="attaque">Attaque :</string>
+    <string name="defense">Defense :</string>
+    <string name="soin">Soin :</string>
+    <string name="vitesse">Vitesse :</string>
+    <string name="pv">PV :</string>
+    <string name="_100">100</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="clique_sur_ce_bg_pour_monter_de_niveau">Clique sur ce BG pour monter de niveau !</string>
+    <string name="game_name">SIMON GAME</string>
+    <string name="am_liorer_le_simon">Améliorer Simon</string>
+    <string name="effacer_la_sauvegarde">Effacer la sauvegarde</string>
+    <string name="combatMenu">Commencer un combat</string>
+    <string name="title_activity_battle">Battle</string>
+    <string name="item_default_name">Poings</string>
+    <string name="item_default_power">99999</string>
+    <string name="equip">Equiper Simon</string>
+
+    <string-array name="description_item_array">
+        <item>Ces poings sont aussi fermes que ceux d\'un gorille énervé !</item>
+        <item>Un corps musculairement performant. Fruit d\'un bon nombre d\'heures d\'entraînement !</item>
+        <item>Grâce à cette pièce, vous pourrez acheter un bon croissant. Dommage que ce soit inutilisable en combat !</item>
+        <item>La grâce d\'un des êtres les plus puissant de ce monde. Hein ? Qui a dit que c\'était bénéfique ?</item>
+        <item>Seul les vrais racistes peuvent maîtriser ce champion !</item>
+        <item>Du liquide vaisselle bien dégraissant, et très revigorant ! Doit être volé dans les cuisines commune pour être efficace !</item>
+        <item>Une armure. Sans particularité, mais au moins, ça protège !</item>
+        <item>Le pazuzu le plus célèbre du monde, tant le traumatisme qu\'il a causé pour ce pauvre Victor est énorme !</item>
+        <item>Une simple Epée. Simple mais efficace !</item>
+        <item>Ou comment être cancer dans un jeux video</item>
+        <item>Le communisme permet une redistribution égalitaire des stats, mais c\'est négatif !</item>
+        <item>Parce que ce que vous nous proposez encore une fois, c\'est de la…</item>
+        <item>\"Je n\'avais jamais ôté mon chapeau\", qu\'il disait… visiblement, ce n\'est plus le cas !</item>
+        <item>Une boite de Tenders avec du délicieux poulet génétiquement modifié de chez KFC !</item>
+        <item>Ouais allô ma p\'tite dame, je vous appelle parce que vous avez commandé 20 000 hectares d\'oliviers…</item>
+        <item>Une rose bien rouge, signe d\'une grande attention portée à soi !</item>
+        <item>La seule chose qu\'on peut dire, c\'est même la bite à Gravebanes est plus petite que ce petit être !</item>
+        <item>De magnifiques babouches. Peut se porter en toutes occasions et en toutes circonstances !</item>
+        <item>Il suffit ! Mon vaisseau appareillera au matin. Je me demande ce qu\'il y a pour dîner…</item>
+        <item>Un compagnon fort amical, très fort, du à sa proximité avec Yazid !</item>
+        <item>Un chapitre de One Piece. Se lit bien quand on est dans un bon bain chaud à 4 heures du matin !</item>
+        <item>Une voiture très ordinaire. Mais entre les mains d\'un pilote…</item>
+        <item>Une copine empêche votre évolution en vous détournant l\'esprit. Mais peut-être qu\'avec une moustache et un chapeau… Non, ça reste pas ouf !</item>
+        <item>La tenue traditionnelle portée par les habitants de la bavière. Style garanti !</item>
+    </string-array>
+    <string-array name="description_chara_array">
+        <item>C\'est Simon !</item>
+        <item>Président des Français, ce curieux personnage semble avoir des goûts vestimentaires douteux…</item>
+        <item>Un roi qui croit en tous ses vrais guerriers !</item>
+        <item>Un redoutable guerrier polyvalent dont sa résistance aux coups en a effrayé plus d\'un !</item>
+        <item>Le petit père du peuple. Envoi facilement les gens au goulags !</item>
+        <item>Un combattant tanky, dont sa bonne santé n\'a d\'égal que l\'inverse de sa vitesse !</item>
+        <item>Chanteur compositeur bien vieillot comme on les aime !</item>
+        <item>Ce combattant a réussi l\'exploit d\'être le centre des fantasmes dans un visual novel !</item>
+        <item>Un combattant qui, bien que lent, peut compter sur sa robustesse pour éliminer ses ennemis !</item>
+        <item>Un combattant aussi résistant qu\'une brindille, mais doté d\'un pouvoir caché redoutable…</item>
+        <item>Son regard jugeur est capable de pétrifier de terreur quiconque le regarde !</item>
+        <item>Un combattant rapide et réviviscent dont son chapeau n\'est pas sans rappeler un célèbre pirate !</item>
+        <item>Un combattant équilibré statistiquement, doté d\'une superbe moustache !</item>
+        <item>C\'est une femme, tout ce qu\'il y a de plus ordinaire…</item>
+        <item>Le roi du yodel. La légende raconte que quiconque entendrait son Yodeling serait guérit de sa dépression !</item>
+    </string-array>
+
+</resources>

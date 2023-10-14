@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:layout_margin="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120sp"
+        android:background="@drawable/bg_1"
+        >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/menu_name_boss"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BOSS NAME"
+            android:textColor="@color/white"
+            android:textSize="15dp"
+            android:background="@color/black"
+            />
+        <ImageView
+            android:id="@id/menu_view_boss"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/bg"
+            android:src="@drawable/id_1_boss"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/black"
+        android:layout_marginHorizontal="18dp"
+        android:layout_marginVertical="13dp"
+        android:layout_gravity="center"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PV : "
+                android:textColor="@color/pv_color"
+                />
+            <TextView
+                android:id="@+id/menu_pv_boss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="400000"
+                android:textColor="@color/pv_color"
+                android:textAlignment="viewEnd"
+
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Attaque : "
+                android:textColor="@color/attack_color"
+                />
+            <TextView
+                android:id="@+id/menu_attack_boss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="70000"
+                android:textColor="@color/attack_color"
+                android:textAlignment="viewEnd"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Defense : "
+                android:textColor="@color/defense_color"
+                />
+            <TextView
+                android:id="@+id/menu_defense_boss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="70000"
+                android:textColor="@color/defense_color"
+                android:textAlignment="viewEnd"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Soin : "
+                android:textColor="@color/soins_color"
+                />
+            <TextView
+                android:id="@+id/menu_soin_boss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="70000"
+                android:textColor="@color/soins_color"
+                android:textAlignment="viewEnd"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vitesse : "
+                android:textColor="@color/vitesse_color"
+                />
+
+            <TextView
+                android:id="@+id/menu_vitesse_boss"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="70000"
+                android:textColor="@color/vitesse_color"
+                android:textAlignment="viewEnd"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+        <TextView
+                android:id="@+id/menu_description_boss"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="center"
+                android:text="Insérez description ici"
+            android:background="@color/material_dynamic_tertiary10"
+                android:textColor="@color/white"
+            />
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
